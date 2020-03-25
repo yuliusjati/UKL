@@ -21,6 +21,6 @@
 ![AltText](https://github.com/yuliusjati/UKL/blob/master/header.php)
 ![AltText](https://github.com/yuliusjati/UKL/blob/master/footer.php)
 # UKL3
-![AltText](https://github.com/yuliusjati/UKL/blob/master/1.PNG)
+![AltText](https://github.com/yuliusjati/UKL/blob/master/UKL2.PNG)
 ![AltText](https://github.com/yuliusjati/UKL/blob/master/index2.php)
 ![AltText](https://github.com/yuliusjati/UKL/blob/master/koneksi.php)
